@@ -60,5 +60,5 @@ exports.conf = {
   };
   
   exports.help = {
-    name: 'BOSS'
+    name: 'kue'
   };
