@@ -89,5 +89,5 @@ exports.conf = {
 };
 
 exports.help = {
-  name: 'slots',
+  name: 's',
 };
